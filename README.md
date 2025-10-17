@@ -116,7 +116,7 @@ if solution:
     num1, num2, num_result, mapping = solution
     print(f"\nSolution found!")
     print(f"{word1} = {num1}")
-    print(f"{word2} = {num2}")
+    print(f"{word2} = {num2}") 
     print(f"{result} = {num_result}")
     print(f"Mapping: {mapping}")
 else:
